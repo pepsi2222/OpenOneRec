@@ -116,9 +116,7 @@ On the **Amazon Benchmark** (10 datasets), OpenOneRec demonstrates exceptional z
 | Tools | 0.0437 | 0.0344 | 0.0438 | **0.0593** |
 | Toys | 0.0658 | 0.0527 | 0.0549 | **0.0953** |
 
-*Metric: Recall@10. Ours refers to OneRec-Foundation with text-augmented itemic tokens strategy.*
-
-For implementation details, please refer to [GRLM](https://github.com/ZY0025/GRLM).
+*Metric: Recall@10. Ours refers to OneRec-Foundation with text-augmented itemic tokens strategy. For implementation details, please refer to [GRLM](https://github.com/ZY0025/GRLM).*
 
 ## 🚀 Quick Start
 
